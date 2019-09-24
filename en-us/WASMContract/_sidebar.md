@@ -1,7 +1,7 @@
 - WASM Contract
 
-	- [WASM Contract](en-us/basics/[English]-WASMIntroduced)
+	- [WASM Contract](en-us/WASMContract/[English]-WASMTutorial.md)
 
-        
+    ​    
 
 
